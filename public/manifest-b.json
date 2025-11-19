@@ -1,0 +1,16 @@
+{
+    "routes": [
+        {
+            "path": "/example",
+            "modules": [
+                "module1",
+                "module2"
+            ],
+            "foo": "bar"
+        }
+    ],
+    "modules": {
+        "module1": {},
+        "module2": {}
+    }
+}
